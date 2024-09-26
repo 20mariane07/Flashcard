@@ -12,25 +12,25 @@ criaCartao(
 
 criaCartao(
     'Histórias',
-    'Quais são minha comida favorita?',
+    'Qual é minha comida favorita?',
     'Minha comida favorita é lazanha'
 )
 
 criaCartao(
     'Histórias',
-    'Como se diz oi em Inglês?',
+    'Qual lugar do mundo eu gostaria de conhecer?',
     'Oi em ingles é HI (RAI)'
 )
 
 criaCartao(
     'Histórias',
-    'O que é Python?',
+    'Que hobby ou atividade eu gostaria de experimentar?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
     'Histórias',
-    'Qual a capital da França?',
+    '?',
     'A capital da França é Paris'
 )
 
