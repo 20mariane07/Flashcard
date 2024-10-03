@@ -30,18 +30,22 @@ criaCartao(
 
 criaCartao(
     'Histórias',
-    '?',
-    'A capital da França é Paris'
+    'Qual é minha profissão dos sonhos?',
+    'Minha profissão dos sonhos é ser Desembargadora'
 )
 
 criaCartao(
     'Histórias',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Qual é a minha estação do ano favorita?',
+    'Minha estação do ano favorita é o outono'
 )
-
 criaCartao(
     'Histórias',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Minha preferência é filmes ou séries?',
+    'Série com certeza'
+)
+criaCartao(
+    'Histórias',
+    'Qual é meu esporte preferido?',
+    'Meu esporte preferido é o vôlei'
 )
