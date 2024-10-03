@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Histórias',
     'Qual é minha comida favorita?',
-    'Minha comida favorita é lazanha'
+    'Minha comida favorita é lasanha'
 )
 
 criaCartao(
