@@ -19,13 +19,13 @@ criaCartao(
 criaCartao(
     'Histórias',
     'Qual lugar do mundo eu gostaria de conhecer?',
-    'Oi em ingles é HI (RAI)'
+    'Um lugar do mundo que eu gostaria de conhecer é a ilha de Santorini na Grécia'
 )
 
 criaCartao(
     'Histórias',
     'Que hobby ou atividade eu gostaria de experimentar?',
-    'O Python é uma linguagem de programação'
+    'Pular de paraquedas'
 )
 
 criaCartao(
